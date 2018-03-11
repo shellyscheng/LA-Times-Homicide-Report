@@ -7,6 +7,9 @@ March 10, 2018
 Tools used: Plotly.js, Node.js, npm, yeogurt, git, JSON, Bootstrap, Leaflet.js
 
 
-Project Link: https://shiyingcheng.github.io/LA-Times-Homicide-Report/ 
+Project Final Link: https://shiyingcheng.github.io/LA-Times-Homicide-Report/ 
 
 The L.A. Times Homicide Peport: http://homicide.latimes.com/
+
+
+Note: this project is made as part of a trainding during NICAR 2018 Conference
