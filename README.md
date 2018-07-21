@@ -12,4 +12,4 @@ Project Final Link: https://shiyingcheng.github.io/LA-Times-Homicide-Report/
 The L.A. Times Homicide Peport: http://homicide.latimes.com/
 
 
-Note: this project is made as part of a trainding during NICAR 2018 Conference
+Note: this project is made as part of a training worlshop during NICAR 2018 Conference
